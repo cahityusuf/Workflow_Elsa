@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TfhaYzBfv0Jt6GCppq35rwfKEYrkGyZOr/SBnhOXxFo=",
+  "Source": "ElsaQuickstarts.Server.ApiEndpoints",
+  "BasePath": "_content/ElsaQuickstarts.Server.ApiEndpoints",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
